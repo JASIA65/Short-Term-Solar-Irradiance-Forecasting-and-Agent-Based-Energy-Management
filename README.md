@@ -35,7 +35,7 @@ The dataset contains ground-based solar radiation and meteorological measurement
 
 The original dataset is not redistributed in this repository.
 
-Download the dataset from:
+Download data from;
 
 https://datacatalog.worldbank.org/search/dataset/0038550/pakistan-solar-radiation-measurement-data
 
@@ -43,3 +43,9 @@ After downloading, place the dataset files inside the following folder:
 
 ```text
 data/raw/
+
+## Code Availability
+
+The source code associated with this study is archived on Zenodo.
+
+**Version 1.0.0 DOI:** https://doi.org/10.5281/zenodo.21461511
